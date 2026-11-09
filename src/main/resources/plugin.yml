@@ -1,0 +1,8 @@
+name: kiriki_Plugin
+version: 1.0
+main: ru.kiriki.Main
+api-version: '1.21'
+
+commands:
+  kit:
+    description: Выдает стартовый набор
